@@ -1,0 +1,22 @@
+gene = input("Gene name: ")
+organism = input("Organism: ")
+print()
+print("Gene:", gene)
+print("Organism:", organism)
+#DNA Sequence length calculator
+dna = input("Enter DNA sequence: ")
+print("Length:", len(dna))
+#Nucleotide counting
+dna = "ATGCGATCGAA"
+print("A =", dna.count("A"))
+print("T =", dna.count("T"))
+print("G =", dna.count("G"))
+print("C =", dna.count("C"))
+#GC Content 
+dna = "ATGCGATCGAA"
+g = dna.count("G")
+c = dna.count("C")
+gc = g + c
+length = len(dna)
+gc_percent = (gc / length) * 100
+print("GC Content =", gc_percent)
