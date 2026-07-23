@@ -12,7 +12,7 @@ This repository documents my learning through:
 - Research notes
 My goal is to build strong computational biology skills through hands-on practice rather than just completing courses.
 ## Current Progress
-- ✅ Week 1 Day 1
-- ✅ Week 1 Day 2
-- ✅ Week 1 Day 3
+- ✅ Week 1 Day 1 : Biological Databases(NCBI, UniProt) & file setup
+- ✅ Week 1 Day 2 : Python Basics for Bioinformatics
+- ✅ Week 1 Day 3 : Linux command line & file management
 More updates coming...
