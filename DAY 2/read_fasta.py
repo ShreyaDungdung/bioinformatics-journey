@@ -1,4 +1,4 @@
-file = open("insulin.fasta")
-content = file.read()
-print(content)
-file.close()
+with open("insulin.fasta") as file:
+    for line in file:
+        if not line.startswith(">"):
+            print(line.strip())
