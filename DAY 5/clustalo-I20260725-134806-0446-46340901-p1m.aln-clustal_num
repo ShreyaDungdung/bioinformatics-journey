@@ -1,0 +1,79 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|E1BPQ1|FOXO1_BOVIN      MAEAPQVVEIDPDFEPLPRPRSCTWPLPRPEFSQSNSATSSPAPSGGAAANPDGAAGLPS	60
+sp|O73727|INS_DANRE        ------------------------------------------------------------	0
+sp|P01325|INS1_MOUSE       ------------------------------------------------------------	0
+sp|P01308|INS_HUMAN        ------------------------------------------------------------	0
+sp|P30410|INS_PANTR        ------------------------------------------------------------	0
+                                                                                       
+
+sp|E1BPQ1|FOXO1_BOVIN      ASAAAVNADFMSNLSLLEESGDFQQAPGSVAAAAPLSQHPPVPPAAAAAAAGGQLAGQPR	120
+sp|O73727|INS_DANRE        ------------------------------------------------------------	0
+sp|P01325|INS1_MOUSE       ------------------------------------------------------------	0
+sp|P01308|INS_HUMAN        ------------------------------------------------------------	0
+sp|P30410|INS_PANTR        ------------------------------------------------------------	0
+                                                                                       
+
+sp|E1BPQ1|FOXO1_BOVIN      KSSSSRRNAWGNLSYADLITKAIESSAEKRLTLSQIYEWMVKSVPYFKDKGDSNSSAGWK	180
+sp|O73727|INS_DANRE        ------------------------------------------------------------	0
+sp|P01325|INS1_MOUSE       ------------------------------------------------------------	0
+sp|P01308|INS_HUMAN        ------------------------------------------------------------	0
+sp|P30410|INS_PANTR        ------------------------------------------------------------	0
+                                                                                       
+
+sp|E1BPQ1|FOXO1_BOVIN      NSIRHNLSLHSKFIRVQNEGTGKSSWWMLNPEGGKSGKSPRRRAASMDNNSKFAKSRGRA	240
+sp|O73727|INS_DANRE        ------------------------------------------------------------	0
+sp|P01325|INS1_MOUSE       ------------------------------------------------------------	0
+sp|P01308|INS_HUMAN        ------------------------------------------------------------	0
+sp|P30410|INS_PANTR        ------------------------------------------------------------	0
+                                                                                       
+
+sp|E1BPQ1|FOXO1_BOVIN      AKKKASLQSGQEGAGDSPGSQFSKWPASPGSHSNDDFDNWSTFRPRTSSNASTISGRLSP	300
+sp|O73727|INS_DANRE        ------------------------------------MAVWLQAG----------------	8
+sp|P01325|INS1_MOUSE       ------------------------------------MALLVHFL----------------	8
+sp|P01308|INS_HUMAN        ------------------------------------MALWMRLL----------------	8
+sp|P30410|INS_PANTR        ------------------------------------MALWMRLL----------------	8
+                                                               :                       
+
+sp|E1BPQ1|FOXO1_BOVIN      IMTEQDDLGDGDVHSMVYPPSAAKMASTLPSLSEISNPENMENLLDNLNLLSSPTSLTVS	360
+sp|O73727|INS_DANRE        ------------------------------------------------ALLV---LLVVS	17
+sp|P01325|INS1_MOUSE       ------------------------------------------------PLLA---LLALW	17
+sp|P01308|INS_HUMAN        ------------------------------------------------PLLA---LLALW	17
+sp|P30410|INS_PANTR        ------------------------------------------------PLLV---LLALW	17
+                                                                            **     *.: 
+
+sp|E1BPQ1|FOXO1_BOVIN      TQSSPGTMMQQTPCYSFAPPNTSLNSPTPNYQKYTYGQSSMSPLPQMPMQTLQDNKSSYG	420
+sp|O73727|INS_DANRE        -SVSTNPGTP--------------------------------------------------	26
+sp|P01325|INS1_MOUSE       EPKPTQAFVK--------------------------------------------------	27
+sp|P01308|INS_HUMAN        GPDPAAAFVN--------------------------------------------------	27
+sp|P30410|INS_PANTR        GPDPASAFVN--------------------------------------------------	27
+                                                                                       
+
+sp|E1BPQ1|FOXO1_BOVIN      GMSQYCAPGLLKELLTSDSPPHNDIMTPVDPGVAQANSRVLGQSVLMGPNSVMPAYGGQA	480
+sp|O73727|INS_DANRE        --QHLCGSHLVDAL-----------------------------------------YLVCG	43
+sp|P01325|INS1_MOUSE       --QHLCGPHLVEAL-----------------------------------------YLVCG	44
+sp|P01308|INS_HUMAN        --QHLCGSHLVEAL-----------------------------------------YLVCG	44
+sp|P30410|INS_PANTR        --QHLCGSHLVEAL-----------------------------------------YLVCG	44
+                             .: *.  *:. *                                         *   .
+
+sp|E1BPQ1|FOXO1_BOVIN      SHNKMMTPSSHTHPGHAQSTSAVNGRALPHAVNTMPHTSGMNRLAPVKTALQV---PLAH	537
+sp|O73727|INS_DANRE        PTGFFYNPKRDVEPL---LGFLPPKSA---------QETEVADFAFKDHAELIRKRGIVE	91
+sp|P01325|INS1_MOUSE       ERGFFYTPKSRREVEDPQVEQLELG-----------GSPG--DLQTLALEVARQKRGIVD	91
+sp|P01308|INS_HUMAN        ERGFFYTPKTRREAEDLQVGQVELG-----------GGPGAGSLQPLALEGSLQKRGIVE	93
+sp|P30410|INS_PANTR        ERGFFYTPKTRREAEDLQVGQVELG-----------GGPGAGSLQPLALEGSLQKRGIVE	93
+                             . : .*.   .                              :             :..
+
+sp|E1BPQ1|FOXO1_BOVIN      PMQMSALGGYSSVSSCNGYGRMGVLHQEKLPSDLDGMFIERLDCDMESIIRNDLMDGDTL	597
+sp|O73727|INS_DANRE        QCCHKPCSIFELQNYCN-------------------------------------------	108
+sp|P01325|INS1_MOUSE       QCCTSICSLYQLENYCN-------------------------------------------	108
+sp|P01308|INS_HUMAN        QCCTSICSLYQLENYCN-------------------------------------------	110
+sp|P30410|INS_PANTR        QCCTSICSLYQLENYCN-------------------------------------------	110
+                               .  . :.  . **                                           
+
+sp|E1BPQ1|FOXO1_BOVIN      DFNFDNVLPNQSFPHSVKTTTHSWVSG	624
+sp|O73727|INS_DANRE        ---------------------------	108
+sp|P01325|INS1_MOUSE       ---------------------------	108
+sp|P01308|INS_HUMAN        ---------------------------	110
+sp|P30410|INS_PANTR        ---------------------------	110
+                                                      
