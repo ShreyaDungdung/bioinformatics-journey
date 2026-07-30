@@ -1,15 +1,15 @@
 ============================================================
-🧬 BIOINFORMATICS REPORT: NUCLEOTIDE ANALYSIS
+BIOINFORMATICS REPORT: NUCLEOTIDE ANALYSIS
 ============================================================
 Target Record : >NM_000207.3 Homo sapiens insulin (INS), transcript variant 1, mRNA
 Total Sequence Length : 465 base pairs
 
-📊 Nucleotide Counts:
+Nucleotide Counts:
   - A: 76 (16.34%)
   - T: 81 (17.42%)
   - G: 147 (31.61%)
   - C: 161 (34.62%)
 
-🧪 Thermal Stability Metric:
+Thermal Stability Metric:
   - Total GC Content: 66.24%
 ============================================================
