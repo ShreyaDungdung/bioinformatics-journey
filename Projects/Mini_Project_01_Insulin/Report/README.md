@@ -86,9 +86,9 @@ This research project successfully executed an end-to-end comparative analysis o
 BLAST data and phylogenetic modeling mapped a precise evolutionary gradient that mirrors deep geological time, placing humans closest to primates and furthest from teleost fish. Multiple sequence alignments and PyMOL structural models proved that while disposable connecting loops vary freely, natural selection strictly preserves the core binding surfaces and critical disulfide bonds. Ultimately, this study demonstrates how combining genetic data, python scripting, and 3D structural models provides a clear view of evolutionary conservation and protein architecture.
 
 ## References
-**NCBI Nucleotide/Protein Registries:** nih.govUniProt Knowledgebase 
-**(UniProtKB):** uniprot.org
-**RCSB Protein Data Bank (PDB):** rcsb.org
-**EMBL-EBI Clustal Omega Alignment Portal:** ebi.ac.uk
-**PyMOL Molecular Graphics System:** Schrödinger, LLC.
-**Python Software Foundation:** Python 3 Interpreter Environment.
+1. **NCBI Nucleotide/Protein Registries:** nih.govUniProt Knowledgebase 
+2. **(UniProtKB):** uniprot.org
+3. **RCSB Protein Data Bank (PDB):** rcsb.org
+4. **EMBL-EBI Clustal Omega Alignment Portal:** ebi.ac.uk
+5. **PyMOL Molecular Graphics System:** Schrödinger, LLC.
+6. **Python Software Foundation:** Python 3 Interpreter Environment.
