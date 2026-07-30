@@ -1,0 +1,20 @@
+Structural Project Documentation
+
+1. Number of Chains - 
+- Total Chains: 2 distinct polypeptide chains form the active, functional monomer structural unit.
+- Chain A: A shorter peptide composed of exactly 21 amino acids.
+- Chain B: A longer peptide composed of exactly 30 amino acids.
+
+2. Secondary Structures - 
+- Chain A Structure: Contains two distinct alpha-helices located at segments A1–A8 and A12–A20, structurally joined by a short flexible connector loop.
+- Chain B Structure: Features a prominent, highly rigid central alpha-helix stretching across positions B9–B19, which is flanked on both ends by turns and structural beta strands.
+
+3. Disulfide Bonds  -
+The entire functional structural framework is stabilized by exactly 3 structural disulfide covalent bridges:
+- Inter-chain Bridge 1: Covalently bridges the two chains between cysteine residues A7 and B7.
+- Inter-chain Bridge 2: Covalently bridges the two chains between cysteine residues A20 and B19.
+- Intra-chain Bridge 3: An internal stabilization loop entirely inside Chain A, bridging residues A6 and A11.
+
+4. Overall Observations - 
+- Hydrophobic Core: Non-polar, aliphatic residue chains pack tightly into the inner cavity to form a dense hydrophobic pocket, pulling the active structures inward.
+- Binding Interface: The structural layout positions key aromatic residues externally on the surface, ready to lock cleanly onto the active binding interface pocket of the cellular human insulin receptor molecule.
