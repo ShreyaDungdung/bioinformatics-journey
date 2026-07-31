@@ -1,0 +1,75 @@
+# 🔬 Mini Project 2: Comprehensive Disease Gene Analysis (TP53)
+
+An integrated, end-to-end transcriptomic and proteomic workflow analyzing the structural, evolutionary, and network biology of the human tumor suppressor gene **TP53**—the *"Guardian of the Genome."* 
+
+This project demonstrates how microscopic sequence variations ripple outward to alter structural domains, disrupt biological circuits, and drive clinical cancer pathologies.
+
+---
+
+## 🎯 Project Core Objectives
+*   **Pipeline Integration**: Chain multiple foundational bioinformatics platforms (NCBI, UniProt, BLAST, Clustal Omega, InterPro, Pfam, STRING) into a single analytical workflow.
+*   **Structural & Evolutionary Mapping**: Track sequence conservation across deep geological time scales and map key functional protein zones.
+*   **Biological Data Interpretation**: Transition from simply collecting data rows to analyzing biological circuits, explaining the molecular mechanisms behind clinical cancer mutations.
+
+---
+
+## 🗺️ Pipeline Workflow Architecture
+
+```text
+  [ Sequence Retrieval ] ──► [ Similarity Mapping ] ──► [ Multiple Alignment ]
+     (NCBI & UniProt)           (BLASTn & BLASTp)           (Clustal Omega)
+                                                                   │
+                                                                   ▼
+  [ Network Interaction ] ◄── [ Gene Ontology ] ◄── [ Domain Identification ]
+     (STRING Database)       (Standardized GO)       (InterPro & Pfam Scans)
+```
+
+---
+
+## 🔬 Pipeline Execution & Deliverables Summary
+
+### 📂 Phase 1: Sequence Isolation & Quality Inspection (`Data/`)
+*   **Action**: Extracted curated reference sequences into standard plain-text directories.
+*   **Data Footprint**: Human transcript code `NM_000546.6` (2,512 bp DNA) and multi-species polypeptide configurations (Human `P04637`, Chimpanzee `P13481`, Mouse `P02340`, Cow `P53028`, Zebrafish `O42344`).
+*   **Automation**: Engineered a standalone, zero-dependency Python script (`analyze_fasta.py`) to parse headers and map exact residue counts, GC content fractions, and structural residue abundances.
+
+### 📊 Phase 2: Alignment searches & Evolutionary Kinetics (`BLAST/` & `Phylogeny/`)
+*   **Action**: Executed global pairwise alignments (BLAST) and progressive multiple sequence alignments (Clustal Omega) to measure selection pressure across vertebrate clades.
+*   **Key Findings**:
+    *   Primate pairings (Chimpanzees) exhibit near-identical matching signatures (>98% identity).
+    *   The central structural core (residues 102–292) maintains complete structural preservation with zero gap insertions across all tested lineages, highlighting intense negative selection pressure.
+    *   Neighbor-Joining tree clustering correctly maps natural mammalian lines while placing the deep-water *Danio rerio* (Zebrafish) as a clear evolutionary outgroup.
+
+### 💎 Phase 3: Structural Proteomics & Functional Taxonomy (`Domains/` & `GO/`)
+*   **Action**: Scanned Pfam profiles to identify functional modules and applied Gene Ontology vocabularies to catalog biochemical workplaces.
+*   **Key Findings**:
+    *   Mapped structural domain thresholds: **Transactivation Domain (1–40)**, **Core DNA-Binding Domain (102–292)**, and **Tetramerization Handle (325–356)**.
+    *   Correlated physical domains with GO terms, linking the zinc-coordinating core fold to sequence-specific DNA transcription activity (`GO:0003700`) inside the Cell Nucleus (`GO:0005634`).
+    *   **Clinical Value**: Confirmed why over 80% of human patient cancer mutations concentrate inside the DNA-binding zone—single point modifications disrupt loop stability, knocking out the gene's tumor-braking abilities.
+
+### 🕸️ Phase 4: Intracellular Circuit Interactivity (`STRING/`)
+*   **Action**: Charted the immediate functional neighborhood of p53 to verify that proteins function as integrated networks rather than in isolation.
+*   **Key Findings**:
+    *   Mapped the exact biochemical triggers between damage-sensing radars (**ATM / CHEK2**), repair coordinators (**BRCA1**), and the master negative repressor switch (**MDM2**).
+    *   Highlighted modern precision oncology solutions, demonstrating how small-molecule inhibitors are designed to disrupt the physical MDM2-p53 binding pocket to stabilize natural tumor suppression in patient tissue.
+
+---
+
+## 📂 Project Repository Tree Layout
+
+```text
+Week-02/Day-14/
+├── Data/                 # Raw curated input sequence tracks (.fasta formats)
+├── Scripts/              # Custom text parsers & programmatic plotting engines
+├── Alignment/            # Clustal Omega progressive configuration outputs
+├── Phylogeny/            # Neighbor-Joining evolutionary tree topologies
+├── Domains/              # Structural Pfam architecture & InterPro scans
+├── GO/                   # Gene Ontology systematic annotation matrices
+├── STRING/               # Protein-protein interaction linkage logs
+├── Images/               # Exported data visualization plots & web dashboard clips
+├── TP53_Report.md        # Formally structured one-page scientific report
+└── README.md             # Local navigation document & progress log
+```
+
+---
+**Core Analytical Takeaway**: This integrated mini-project shows that bioinformatics is more than just running software scripts. By blending sequence queries, evolutionary alignments, structural mapping, and network connectivity tracking, we can trace a single-nucleotide genetic mutation all the way to systemic cell-cycle failure and real-world clinical cancer targets.
