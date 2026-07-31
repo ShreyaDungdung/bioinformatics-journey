@@ -1,0 +1,7 @@
+## **Run Clustal Omega**
+
+1. # Open your web browser and navigate to the EMBL-EBI Clustal Omega Web Server.
+2. # Under STEP 1 - Enter your input sequences, make sure the molecule type dropdown is set to Protein.
+3. # Paste your copied multi-species FASTA text block directly into the large text box.
+4. # Leave the parameters under STEP 2 at their default settings.
+5. # Click Submit under STEP 3 and wait a few seconds for the calculations to complete.
