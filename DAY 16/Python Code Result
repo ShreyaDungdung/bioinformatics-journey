@@ -1,0 +1,14 @@
+=== RNA Analysis Results ===
+Sequence Analyzed : GGGAAAUCCCUUUAGGG
+Sequence Length   : 17 bases
+
+--- Nucleotide Counts ---
+Adenine (A)       : 4
+Uracil (U)        : 4
+Guanine (G)       : 6
+Cytosine (C)      : 3
+
+--- Composition Metrics ---
+Total GC Count    : 9
+GC Percentage     : 52.94%
+============================
