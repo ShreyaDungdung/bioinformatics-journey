@@ -1,22 +1,20 @@
-# =====================================================================
-# Python Exercise: RNA Sequence Nucleotide Counter & GC Calculator
-# =====================================================================
+Python Exercise: RNA Sequence Nucleotide Counter & GC Calculator
 
-# 1. Define the input RNA sequence
+# Define the input RNA sequence
 rna_sequence = "GGGAAAUCCCUUUAGGG"
 
-# 2. Count individual nucleotide occurrences
+# Count individual nucleotide occurrences
 count_A = rna_sequence.count("A")
 count_U = rna_sequence.count("U")
 count_G = rna_sequence.count("G")
 count_C = rna_sequence.count("C")
 
-# 3. Calculate sequence lengths and GC content metrics
+# Calculate sequence lengths and GC content metrics
 total_length = len(rna_sequence)
 total_gc_count = count_G + count_C
 gc_percentage = (total_gc_count / total_length) * 100
 
-# 4. Print clean, readable output to the console
+# Print clean, readable output to the console
 print("=== RNA Analysis Results ===")
 print(f"Sequence Analyzed : {rna_sequence}")
 print(f"Sequence Length   : {total_length} bases\n")
