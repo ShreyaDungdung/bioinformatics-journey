@@ -1,7 +1,7 @@
-GENE ONTOLOGY ANALYSIS – TP53
+# GENE ONTOLOGY ANALYSIS – TP53
 Exploring the biological functions, molecular activities, and cellular localization of the human TP53 protein using Gene Ontology.
 ━━━━━━━━━━━━━━━━━━━━
-OVERVIEW
+## OVERVIEW
 
 Gene Ontology (GO) provides a standardized vocabulary for describing the functions of genes and proteins across three major categories:
 • Biological Process (BP)
@@ -9,7 +9,7 @@ Gene Ontology (GO) provides a standardized vocabulary for describing the functio
 • Cellular Component (CC)
 This analysis focuses on the human TP53 gene, an important tumor-suppressor gene involved in maintaining genomic stability and regulating cellular responses to stress and DNA damage.
 ━━━━━━━━━━━━━━━━━━━━
-1. GENE INFORMATION
+### 1. GENE INFORMATION
 
 Official Symbol: TP53
 Full Name: Tumor Protein p53
@@ -17,60 +17,60 @@ Organism: Homo sapiens
 Database Sources: UniProtKB / AmiGO
 
 ━━━━━━━━━━━━━━━━━━━━
-2. GENE ONTOLOGY ANNOTATIONS
+### 2. GENE ONTOLOGY ANNOTATIONS
 
-A. BIOLOGICAL PROCESS (BP)
+## A. BIOLOGICAL PROCESS (BP)
 What biological processes does TP53 participate in?
 
-DNA Repair — GO:0006281
+**DNA Repair** — GO:0006281
 Participates in cellular responses that help maintain and repair damaged genetic material.
 
-Cell Cycle Arrest — GO:0007050
+**Cell Cycle Arrest** — GO:0007050
 Helps pause cell division, allowing the cell to respond to cellular stress and DNA damage.
 
-Apoptosis — GO:0006915
+**Apoptosis** — GO:0006915
 Contributes to programmed cell death when cellular damage is severe.
 
-Cellular Senescence — GO:0090398
+**Cellular Senescence** — GO:0090398
 Contributes to stable cell-cycle arrest in damaged or stressed cells.
 
-Regulation of Transcription — GO:0045944
+**Regulation of Transcription** — GO:0045944
 Regulates the expression of target genes involved in cellular responses.
 
 ━━━━━━━━━━━━━━━━━━━━
-B. MOLECULAR FUNCTION (MF)
+## B. MOLECULAR FUNCTION (MF)
 
 What molecular activities does TP53 perform?
-DNA Binding — GO:0003677
+**DNA Binding** — GO:0003677
 Binds specific DNA sequences and regulates the expression of target genes.
 
-Protein Binding — GO:0005515
+**Protein Binding** — GO:0005515
 Interacts with other proteins involved in cellular regulation and stress responses.
 
-Zinc Ion Binding — GO:0008270
+**Zinc Ion Binding** — GO:0008270
 Coordinates zinc ions that contribute to the structural stability of the DNA-binding domain.
 ━━━━━━━━━━━━━━━━━━━━
-C. CELLULAR COMPONENT (CC)
+## C. CELLULAR COMPONENT (CC)
 
 Where is TP53 located within the cell?
-Nucleus — GO:0005634
+**Nucleus** — GO:0005634
 Major location where TP53 interacts with DNA and regulates gene expression.
 
-Nucleoplasm — GO:0005654
+**Nucleoplasm** — GO:0005654
 Nuclear compartment where TP53 carries out transcription-related functions.
 
-Cytoplasm — GO:0005737
+**Cytoplasm** — GO:0005737
 TP53 can also be present in the cytoplasm, where regulatory processes affecting its activity and stability occur.
 ━━━━━━━━━━━━━━━━━━━━
-3. BIOLOGICAL INTERPRETATION
+### 3. BIOLOGICAL INTERPRETATION
 
 TP53 AS A TUMOR SUPPRESSOR
 The GO annotations help demonstrate how TP53 functions as an important tumor suppressor and transcription factor.
-Cellular Localization - TP53 is mainly associated with the nucleus and nucleoplasm, allowing it to interact with genomic DNA and regulate the expression of target genes.
-Molecular Function - TP53 uses its DNA-binding activity to recognize specific DNA sequences and regulate target genes.
+**Cellular Localization** - TP53 is mainly associated with the nucleus and nucleoplasm, allowing it to interact with genomic DNA and regulate the expression of target genes.
+**Molecular Function** - TP53 uses its DNA-binding activity to recognize specific DNA sequences and regulate target genes.
 Its protein-binding activity allows it to interact with other regulatory proteins involved in cellular stress and DNA-damage responses.
 
-Biological Processes
+**Biological Processes**
 Depending on the cellular condition, TP53 contributes to different protective responses:
 
 Cellular Stress / DNA Damage
@@ -89,7 +89,7 @@ TP53 Activation
 ↓
 Apoptosis / Cellular Senescence
 ━━━━━━━━━━━━━━━━━━━━
-4. OVERALL SIGNIFICANCE
+### 4. OVERALL SIGNIFICANCE
 
 TP53 connects its: Cellular Location → Molecular Functions → Biological Processes
 
@@ -109,12 +109,12 @@ This makes TP53 an important regulator of genomic stability, cell-cycle control,
 Loss or disruption of normal TP53 function can impair these protective mechanisms and contribute to uncontrolled cell proliferation and tumor development.
 
 ━━━━━━━━━━━━━━━━━━━━
-5. KEY TAKEAWAY
+### 5. KEY TAKEAWAY
 
 TP53 acts as a central regulator of cellular responses to stress and DNA damage.
 The Gene Ontology analysis shows how its molecular functions and cellular localization contribute to biological processes that help prevent abnormal cell proliferation.
 ━━━━━━━━━━━━━━━━━━━━
-TOOLS & DATABASES
+### TOOLS & DATABASES
 
 • UniProtKB — Protein and functional information
 • AmiGO / Gene Ontology — GO annotations and functional classification
