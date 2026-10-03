@@ -135,7 +135,7 @@ Biological Interpretation
 
 ---
 
-# 🐍 Python Practice
+#  Python Practice
 
 I'm using Python as a tool for solving biological problems rather than learning programming in isolation.
 
@@ -168,7 +168,7 @@ Current examples include:
 
 ---
 
-# 🧠 How I'm Learning
+#  How I'm Learning
 
 My approach is:
 
@@ -184,7 +184,7 @@ Rather than collecting tools or certificates, I'm trying to understand:
 
 ---
 
-# 📈 Current Direction
+#  Current Direction
 
 I'm gradually moving from a **biotechnology background toward bioinformatics and computational biology**.
 
