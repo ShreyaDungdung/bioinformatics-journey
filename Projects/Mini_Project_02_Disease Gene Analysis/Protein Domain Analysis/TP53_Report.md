@@ -1,8 +1,8 @@
-# Step 8 – Protein Domain Analysis
+# Protein Domain Analysis
 
 To investigate the structural architecture of the human cellular tumor antigen p53 (UniProtKB: `P04637`), sequence data was analyzed using the **InterPro** and **Pfam** classification systems. This structural scanning maps the physical boundaries of the functional modules across the 393-amino-acid chain.
 
-### 🗺️ Structural Domain Topography (393 Amino Acids)
+###  Structural Domain Topography (393 Amino Acids)
 
 The linear topology below outlines the precise amino acid boundaries coordinates discovered through the InterPro database:
 
@@ -11,7 +11,7 @@ The linear topology below outlines the precise amino acid boundaries coordinates
   (1-40)         (40-92)              (102-292)              (325-356)     (363-393)
 ```
 
-### 📋 Functional Domain Annotation Table
+###  Functional Domain Annotation Table
 
 | Domain / Region Name | Pfam / Database ID | Amino Acid Coordinates | Primary Molecular/Biochemical Function |
 | :--- | :---: | :---: | :--- |
@@ -23,7 +23,7 @@ The linear topology below outlines the precise amino acid boundaries coordinates
 
 ---
 
-### 🔬 Core Functional Analysis
+###  Core Functional Analysis
 
 #### Question: Which domains are likely to be essential for TP53's function?
 
