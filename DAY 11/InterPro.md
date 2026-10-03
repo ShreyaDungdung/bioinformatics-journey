@@ -1,4 +1,4 @@
-# 🧬 InterPro Domain Analysis: Human p53 (UniProt P04637)
+#  InterPro Domain Analysis: Human p53 (UniProt P04637)
 
 ## Objective
 Identify the conserved domains and functional regions of human p53 using InterPro, and link them to the conservation pattern seen in the multiple sequence alignment.
@@ -19,7 +19,7 @@ Identify the conserved domains and functional regions of human p53 using InterPr
 *Copy the exact accession numbers and residue ranges from your InterPro results page. Boundaries differ slightly between member databases, so write the ranges as reported, not rounded.*
 
 ## Key Observations
-- The DNA-binding core domain overlaps the region that stayed **gap-free across all five species** in the alignment, which fits strong functional constraint.
+- The DNA-binding core domain overlaps the region that stayed gap-free across all five species in the alignment, which fits strong functional constraint.
 - The N-terminal and C-terminal regions are more variable, which is consistent with them being less structurally constrained.
 - [Add anything else you noticed, such as a protein family entry, GO terms shown by InterPro, or disordered regions.]
 
