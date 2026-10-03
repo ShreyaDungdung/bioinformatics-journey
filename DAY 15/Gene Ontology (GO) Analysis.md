@@ -120,5 +120,6 @@ The Gene Ontology analysis shows how its molecular functions and cellular locali
 • AmiGO / Gene Ontology — GO annotations and functional classification
 • TP53 — Human tumor protein p53
 ━━━━━━━━━━━━━━━━━━━━
-LEARNING OUTCOME - Through this analysis, I learned how Gene Ontology can be used to connect molecular functions with biological processes and cellular localization, providing a structured way to interpret the biological role of a gene or protein.
+### LEARNING OUTCOME 
+Through this analysis, I learned how Gene Ontology can be used to connect molecular functions with biological processes and cellular localization, providing a structured way to interpret the biological role of a gene or protein.
 ━━━━━━━━━━━━━━━━━━━━
