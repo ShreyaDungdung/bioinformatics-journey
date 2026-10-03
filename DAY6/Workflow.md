@@ -1,7 +1,13 @@
-Protein sequences
+**Protein sequences**
+
         ↓
-Multiple Sequence Alignment
+        
+**Multiple Sequence Alignment**
+
         ↓
-Phylogenetic Tree
+        
+**Phylogenetic Tree**
+
         ↓
-Evolutionary Interpretation
+        
+**Evolutionary Interpretation**
