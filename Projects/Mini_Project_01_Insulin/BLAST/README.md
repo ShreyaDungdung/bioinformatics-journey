@@ -28,7 +28,7 @@ The table below tracks how effectively the human master insulin protein query al
 | *Mus musculus* | Mouse | `P01309.1` | 100% | 4.0e-60 | 82.73% |
 | *Danio rerio* | Zebrafish | `O73727.1` | 98% | 2.0e-33 | 47.22% |
 
-## 🔬 Core Biological Insights
+##  Core Biological Insights
 * **Primate Lineage Conservation:** The 100% sequence identity between human and chimpanzee insulin proteins indicates strict evolutionary constraints, showing no amino acid deviations since divergence.
 * **Evolutionary Gradient:** Sequence identity declines uniformly with increasing evolutionary distance from mammals down to teleost fish (*Zebrafish* at 47.22%).
 * **Functional Integrity:** Despite the sequence mutations found in more distant species, all E-values remain functionally near zero, showing that the core structural shape of the insulin molecule remains intact across species lines.
