@@ -2,7 +2,7 @@
 
 To systematically classify the functional attributes of the human **TP53** gene, annotation records were extracted from the **UniProtKB** database using standardized **Gene Ontology (GO)** terms. These attributes are divided into three distinct categories that bridge physical protein blueprints with real-world cellular functions.
 
-### 📋 Gene Ontology Classification Table
+###  Gene Ontology Classification Table
 
 | GO Category | Biological Definition | Specific Functional Descriptor | Official GO Identifier | Experimental/Curated Evidence & Biological Context |
 | :--- | :--- | :--- | :---: | :--- |
@@ -18,7 +18,7 @@ To systematically classify the functional attributes of the human **TP53** gene,
 
 ---
 
-### 🔬 Functional Integration Analysis
+###  Functional Integration Analysis
 
 #### Question: How do Gene Ontology annotations complement domain analysis?
 
