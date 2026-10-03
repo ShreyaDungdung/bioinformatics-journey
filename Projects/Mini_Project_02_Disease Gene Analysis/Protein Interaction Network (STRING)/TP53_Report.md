@@ -1,8 +1,8 @@
-# Step 10 – Protein Interaction Network (STRING)
+# Protein Interaction Network (STRING)
 
 To explore how the p53 protein integrates into systemic cellular machinery, the human **TP53** network was analyzed using the **STRING database** (Search Tool for the Retrieval of Interacting Genes/Proteins). This network mapping visualizes the functional and physical connections that coordinate cellular survival decisions under stress.
 
-### 🕸️ Intracellular Interaction Cluster Map
+###  Intracellular Interaction Cluster Map
 _If you took a screenshot from the STRING database portal, embed it directly into your report by saving the file to your images directory and referencing the code line below:_
 
 ![STRING Protein-Protein Interaction Network for TP53](Images/string_network.png)
@@ -14,7 +14,7 @@ _If you took a screenshot from the STRING database portal, embed it directly int
       [ BRCA1 Repair ] ──────────────────> [ TP53 HUB ] <=========> [ MDM2 Repressor ]
 ```
 
-### 📋 Primary Interactor Regulatory Network Table
+###  Primary Interactor Regulatory Network Table
 
 | Interacting Partner | Gene Symbol | Primary Biological Mechanism & Functional Role in the Network |
 | :--- | :---: | :--- |
@@ -25,7 +25,7 @@ _If you took a screenshot from the STRING database portal, embed it directly int
 
 ---
 
-### 🔬 Functional Network Analysis
+###  Functional Network Analysis
 
 #### Key Takeaway: Proteins Work as Networks, Not in Isolation
 
