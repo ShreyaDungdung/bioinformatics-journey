@@ -1,4 +1,4 @@
-#To open Human Insulin
+# To open Human Insulin
 
 1. fetched it directly from the internet using its official PDB ID code (1TRZ).
 2. In the PyMOL text command line input box - typed the following command exactly as written and pressed Enter: fetch 1trz
