@@ -1,0 +1,3 @@
+# Human insulin
+
+> ATGCCCTGTGGATGCGCTTCCTGCCCCTG
