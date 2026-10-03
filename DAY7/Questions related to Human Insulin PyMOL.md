@@ -1,20 +1,20 @@
-## How many chains does it contain?
+## Q. How many chains does it contain?
 Human insulin contains exactly two chains: Chain A and Chain B.
 
-## How many disulfide bonds can you identify?
+## Q. How many disulfide bonds can you identify?
 You can identify exactly three disulfide bonds in total:Two inter-chain bonds: Connecting Chain A to Chain B (specifically, CysA7–CysB7 and CysA20–CysB19).
 One intra-chain bond: Located entirely within Chain A itself (connecting CysA6–CysA11).
 
-## Are alpha helices present?
+## Q. Are alpha helices present?
 Yes, alpha helices are prominently present. Both Chain A (which features two small helical segments) and Chain B (which contains a central, distinct alpha helix) utilize them as their primary structural elements.
 
-## Are beta sheets present?
+## Q. Are beta sheets present?
 No, beta sheets are not present in a standard active insulin monomer. The structure consists entirely of alpha helices and flexible connecting loops.
 
-## Which chain appears longer?
+## Q. Which chain appears longer?
 Chain B is the longer chain. It contains 30 amino acids, whereas Chain A is shorter, containing only 21 amino acids.
 
-## Why do you think insulin requires two chains?
+## Q. Why do you think insulin requires two chains?
 1. Insulin requires two separate chains primarily due to its evolutionary production process and structural stabilization.
 2. **The Production Process:** Your body originally synthesizes insulin as a single, long continuous chain called proinsulin. 
 3. To activate it, specialized enzymes clip out a massive middle chunk (called the C-peptide), leaving behind the two remaining pieces as separate A and B chains.
