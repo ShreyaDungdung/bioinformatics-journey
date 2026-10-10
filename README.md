@@ -183,6 +183,26 @@ Rather than collecting tools or certificates, I'm trying to understand:
 * How can the analysis be reproduced or improved?
 
 ---
+## 🔬 Featured Project
+
+### TEM Beta-Lactamase Sequence Analysis
+A comparative bioinformatics project exploring selected TEM-type beta-lactamase gene sequences.
+
+**What I explored:**
+- Nucleotide sequence retrieval using NCBI
+- Multiple sequence alignment with Clustal Omega
+- Pairwise sequence identity using Python and Biopython
+- Phylogenetic tree construction
+- Nucleotide and amino acid variation analysis
+
+**Tech stack:** Python · Biopython · Pandas · NCBI · Clustal Omega
+
+🔗 [View Project Repository]
+
+##  My Approach
+I focus on understanding the concepts behind the tools, applying them to biological data, and documenting what I learn through practical projects.
+
+---
 
 #  Current Direction
 
