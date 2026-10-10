@@ -28,14 +28,6 @@ This project explores sequence similarities and variations among five selected T
 7. Construct and interpret a phylogenetic tree
 8. Document the workflow, results, and limitations
 
-## Project Files
-Add your actual files here as you upload them:
-- `README.md` — Project documentation
-- `blaTEM_multiple_sequence_alignment.fasta` — Multiple sequence alignment
-- `blaTEM_variable_positions.csv` — Variable nucleotide positions
-- `blaTEM_amino_acid_variations.csv` — Amino acid variation results
-- `blaTEM_analysis_summary.csv` — Analysis summary
-- Python notebook or scripts used for the analysis
 
 ## Learning Outcomes
 - Biological sequence retrieval and handling
