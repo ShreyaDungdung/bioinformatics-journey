@@ -197,7 +197,7 @@ A comparative bioinformatics project exploring selected TEM-type beta-lactamase 
 
 **Tech stack:** Python · Biopython · Pandas · NCBI · Clustal Omega
 
-🔗 [View Project Repository]
+🔗https://github.com/ShreyaDungdung/bioinformatics-journey/tree/03ba6fe907459c96c4d558bea6e0d4e54a539e0f/tem-beta-lactamase-sequence-analysis
 
 ##  My Approach
 I focus on understanding the concepts behind the tools, applying them to biological data, and documenting what I learn through practical projects.
