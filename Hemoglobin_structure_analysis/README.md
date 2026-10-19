@@ -86,7 +86,7 @@ Residue 6 of the β-globin chain was examined and identified as glutamic acid
 The residue was displayed using a stick representation to make its local
 structural environment easier to inspect.
 
-![Glu6 Environment](figures/HBA_GLU6.png)
+![Glu6 Environment](Hemoglobin_structure_analysis/HBA_GLU6.png)
 
 
 ### Val6 in HbS
