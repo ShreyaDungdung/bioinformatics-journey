@@ -1,0 +1,17 @@
+PROJECT: Structural Analysis of Sickle Cell Hemoglobin
+
+NORMAL STRUCTURE
+PDB ID: 2HHB
+Protein: Human deoxyhemoglobin
+Organism: Homo sapiens
+Experimental method: X-ray diffraction
+Resolution: 1.74 Å
+Mutation: No
+
+SICKLE STRUCTURE
+PDB ID: 2HBS
+Protein: Deoxyhemoglobin S
+Organism: Homo sapiens
+Experimental method: X-ray diffraction
+Resolution: 2.05 Å
+Mutation: Yes
