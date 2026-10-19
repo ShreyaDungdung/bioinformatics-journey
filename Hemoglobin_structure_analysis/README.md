@@ -69,9 +69,9 @@ The change from a negatively charged residue to a hydrophobic residue is central
 | Normal hemoglobin | **2HHB** | Human deoxyhemoglobin |
 | Sickle hemoglobin | **2HBS** | Deoxyhemoglobin S |
 
-The 2HHB structure is an experimentally determined human deoxyhemoglobin structure solved by X-ray diffraction at 1.74 Å resolution. The entry contains α- and β-chain components of the hemoglobin tetramer. [1]
+The 2HHB structure is an experimentally determined human deoxyhemoglobin structure solved by X-ray diffraction at 1.74 Å resolution. The entry contains α- and β-chain components of the hemoglobin tetramer. 
 
-The 2HBS structure is a high-resolution crystal structure of deoxyhemoglobin S. It specifically represents the **β Glu6 → Val mutation** and provides structural information about the intermolecular contacts associated with HbS polymerization. [2]
+The 2HBS structure is a high-resolution crystal structure of deoxyhemoglobin S. It specifically represents the **β Glu6 → Val mutation** and provides structural information about the intermolecular contacts associated with HbS polymerization. 
 
 ---
 
