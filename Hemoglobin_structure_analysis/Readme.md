@@ -8,11 +8,8 @@
 
 ---
 
-<p align="center">
-  <img src="figures/05_Glu6_vs_Val6_comparison.png" width="850">
-</p>
-
 > Exploring how a single amino-acid substitution can be investigated at the three-dimensional structural level.
+
 
 ##  Project Overview
 
@@ -34,7 +31,8 @@ the structural environment surrounding the substituted residue.
 **How can the β6 Glu→Val substitution associated with sickle hemoglobin
 be visualized and examined at the protein-structure level?**
 
-## 🎯 Objectives
+
+##  Objectives
 
 - Visualize the three-dimensional structure of normal hemoglobin.
 - Identify the β-globin chain.
@@ -67,16 +65,8 @@ Compare structures
 Generate final figures
 
 
-## Tools & Resources
-
-| Tool / Resource | Purpose |
-|---|---|
-| PyMOL | Protein structure visualization and analysis |
-| RCSB Protein Data Bank | Retrieval of experimentally determined structures |
-| PDB format | Structural data representation |
-
-
-## 🔍 Structural Analysis
+````
+## **Structural Analysis**
 
 ### Normal Hemoglobin
 
@@ -85,7 +75,7 @@ to examine its overall three-dimensional organization.
 
 The β-globin chain was then isolated for residue-level analysis.
 
-![Normal Hemoglobin](figures/01_normal_hemoglobin.png)
+![Normal Hemoglobin](figures/2HHB_initial_structure.png)
 
 
 ### Glu6 in Normal Hemoglobin
@@ -96,7 +86,7 @@ Residue 6 of the β-globin chain was examined and identified as glutamic acid
 The residue was displayed using a stick representation to make its local
 structural environment easier to inspect.
 
-![Glu6 Environment](figures/03_Glu6_site.png)
+![Glu6 Environment](figures/HBA_GLU6.png)
 
 
 ### Val6 in HbS
@@ -106,7 +96,7 @@ The corresponding position in the HbS structure contains valine (Val6).
 The residue was visualized in PyMOL and examined together with its surrounding
 structural environment.
 
-![Val6 Environment](figures/04_Val6_site.png)
+![Val6 Environment](figures/HBS_VAL6.png)
 
 
 ##  Glu6 vs Val6
@@ -120,7 +110,7 @@ structural environment.
 | Analysis | Structural visualization | Structural visualization |
 
 
-![Glu6 vs Val6](figures/05_Glu6_vs_Val6_comparison.png)
+![Glu6 vs Val6](figures/Glu6_vs_Val6_comparison.png)
 
 
 ## Key Findings
