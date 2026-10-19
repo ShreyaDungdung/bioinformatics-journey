@@ -110,7 +110,7 @@ structural environment.
 | Analysis | Structural visualization | Structural visualization |
 
 
-![Glu6 vs Val6](figures/Glu6_vs_Val6_comparison.png)
+![Glu6 vs Val6](https://github.com/ShreyaDungdung/bioinformatics-journey/blob/9b843263e18940e59bb9baffc3180ac075c85896/Hemoglobin_structure_analysis/Glu6_vs_Val6_comparison.png)
 
 
 ## Key Findings
