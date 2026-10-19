@@ -96,7 +96,7 @@ The corresponding position in the HbS structure contains valine (Val6).
 The residue was visualized in PyMOL and examined together with its surrounding
 structural environment.
 
-![Val6 Environment](figures/HBS_VAL6.png)
+![Val6 Environment](https://github.com/ShreyaDungdung/bioinformatics-journey/blob/d1ab84264ab45a7e146a8a4a843d790e7dd4df3a/Hemoglobin_structure_analysis/HBS_VAL6.png)
 
 
 ##  Glu6 vs Val6
