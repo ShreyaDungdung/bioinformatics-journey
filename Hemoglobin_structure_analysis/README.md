@@ -75,7 +75,7 @@ to examine its overall three-dimensional organization.
 
 The β-globin chain was then isolated for residue-level analysis.
 
-![Normal Hemoglobin](figures/2HHB_initial_structure.png)
+![Normal Hemoglobin](https://github.com/ShreyaDungdung/bioinformatics-journey/blob/76a7fdd6cd40026e0306fc5a727dd56d26144c7b/Hemoglobin_structure_analysis/2HHB_initial_structure.png.png)
 
 
 ### Glu6 in Normal Hemoglobin
